@@ -20,4 +20,5 @@ amor por tecnologia desde criança e atualmente tenho me dedicado meu tempo para
 </ul>
 
 
-<img src="https://camo.githubusercontent.com/87108105e22f69f241edf7a6d0498a805fa200bdc5220492e15950cdae807dd7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61727468757273706b2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lianearaujot" style="max-width: 100%;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianearaujo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianearaujo&layout=compact)](https://github.com/lianearaujo/github-readme-stats)
